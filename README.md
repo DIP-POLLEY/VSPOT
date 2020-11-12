@@ -1,16 +1,23 @@
-# vspot
+# Faculty Tracker App
 
-A new Flutter application.
+A flutter based application to locate faculties in campus.
 
-## Getting Started
+# Our app helps in effective communication between students and teachers by:-
+a.	Checking if the faculty is busy
+b.	Checking if he/she is in the premise.
+c.	Locating if they satisfy both the conditions
 
-This project is a starting point for a Flutter application.
+# Features:-
+ 	Login: - To extract the names of the users 
+ 	Log system: - To record the person who initiated tracking.
+ 	Location pointer:-
+       A.	Shows the approximate direction in which the user is present.
+       B.	Checks if the user is in the premise.
+ 	Floor pointer: - Checks the current floor on which the user is present.
+ 	Detection of mode: - Checks if the particular user is busy or not.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Demo Link:-
+https://drive.google.com/drive/folders/1obLC-7ptX5E6QkHwiRrXq38orgMgSI4J?usp=sharing
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
